@@ -1,4 +1,4 @@
-About
+About [![Build Status](https://travis-ci.org/kormoc/Diamond.png?branch=master)](https://travis-ci.org/kormoc/Diamond)
 =====
 
 Diamond is a python daemon that collects system metrics and publishes them to
